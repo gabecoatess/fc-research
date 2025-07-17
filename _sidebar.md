@@ -3,7 +3,7 @@
   - [Introduction](README.md)
 
 - **1988 Factory Service Manual**
-  - [General Information](/assets/pdfs/1988_factory_service_manual/general_information)
+  - [General Information](/assets/pdfs/1988_factory_service_manual/general_information.pdf)
   - [Pre-Delivery Inspection and Scheduled Maintenance Services](misc/UNAVAILABLE.md)
   - [Engine](/assets/pdfs/1988_factory_service_manual/engine.pdf)
   - [Lubrication System](misc/UNAVAILABLE.md)
