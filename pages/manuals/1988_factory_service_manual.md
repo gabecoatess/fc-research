@@ -2,4 +2,4 @@
 
 | Title                                  | Available   | Link                                                                                           |
 |----------------------------------------|-------------|------------------------------------------------------------------------------------------------|
-| 1988 Factory Service Manual            | Available   | [View Manual Page](/fc-research/assets/manuals/)                                                                           |
+| 1988 Factory Service Manual            | Available   | [View Manual Page](https://gabecoatess.com/fc-research/assets/manuals/)                                                                           |
