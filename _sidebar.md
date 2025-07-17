@@ -3,15 +3,15 @@
   - [Introduction](README.md)
 
 - **1988 Factory Service Manual**
-  - [General Information](fc-research/assets/pdfs/1988_factory_service_manual/general_information.pdf){:target="_blank"}
+  - [General Information](pages/pdfs/1988_factory_service_manual/GENERAL_INFORMATION.md)
   - [Pre-Delivery Inspection and Scheduled Maintenance Services](misc/UNAVAILABLE.md)
-  - [Engine](fc-research/assets/pdfs/1988_factory_service_manual/engine.pdf){:target="_blank"}
+  - [Engine](fc-research/assets/pdfs/1988_factory_service_manual/engine.pdf)
   - [Lubrication System](misc/UNAVAILABLE.md)
   - [Cooling System](misc/UNAVAILABLE.md)
   - [Fuel and Emissions Control Systems (Non-Turbo)](misc/UNAVAILABLE.md)
   - [Fuel and Emissions Control Systems (Turbo)](misc/UNAVAILABLE.md)
   - [Engine Electrical Systems](misc/UNAVAILABLE.md)
-  - [Clutch](fc-research/assets/pdfs/1988_factory_service_manual/clutch.pdf){:target="_blank"}
+  - [Clutch](fc-research/assets/pdfs/1988_factory_service_manual/clutch.pdf)
   - [Manual Transmission](misc/UNAVAILABLE.md)
   - [Automatic Transmission](misc/UNAVAILABLE.md)
   - [Propeller Shaft](misc/UNAVAILABLE.md)
@@ -19,13 +19,13 @@
   - [Manual Steering System](misc/UNAVAILABLE.md)
   - [Powered Steering System](misc/UNAVAILABLE.md)
   - [Braking System](misc/UNAVAILABLE.md)
-  - [Wheels and Tires](fc-research/assets/pdfs/1988_factory_service_manual/wheels_and_tires.pdf){:target="_blank"}
-  - [Suspension](fc-research/assets/pdfs/1988_factory_service_manual/suspension.pdf){:target="_blank"}
-  - [Body](fc-research/assets/pdfs/1988_factory_service_manual/body.pdf){:target="_blank"}
-  - [Body Electrical System 1](fc-research/assets/pdfs/1988_factory_service_manual/body_electrical_system_part1.pdf){:target="_blank"}
+  - [Wheels and Tires](fc-research/assets/pdfs/1988_factory_service_manual/wheels_and_tires.pdf)
+  - [Suspension](fc-research/assets/pdfs/1988_factory_service_manual/suspension.pdf)
+  - [Body](fc-research/assets/pdfs/1988_factory_service_manual/body.pdf)
+  - [Body Electrical System 1](fc-research/assets/pdfs/1988_factory_service_manual/body_electrical_system_part1.pdf)
   - [Body Electrical System 2](misc/UNAVAILABLE.md)
   - [Technical Data](misc/UNAVAILABLE.md)
-  - [Special Tools](fc-research/assets/pdfs/1988_factory_service_manual/special_tools.pdf){:target="_blank"}
+  - [Special Tools](fc-research/assets/pdfs/1988_factory_service_manual/special_tools.pdf)
   - [Wiring Diagram](misc/UNAVAILABLE.md)
 
 - **Data & References**
