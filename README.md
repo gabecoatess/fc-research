@@ -46,4 +46,4 @@ Please follow the existing folder structure and keep each topic focused.
 ## License
 - Site code: [MIT](LICENSE.md#1-code--site-scaffolding)  
 - Docs & research text: [CC BY‑NC‑SA 4.0](LICENSE.md#2-documentation--written-research)  
-- Third‑party materials are included under Fair‑Use; see [LICENSE.md#3-third-party-content--fair-use-disclaimer] for details.
+- Third‑party materials are included under Fair‑Use; see [Third-Party License](LICENSE.md#3-third-party-content--fair-use-disclaimer) for details.
