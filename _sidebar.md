@@ -1,6 +1,6 @@
 - [Home](/)  
 - **Resources**
-  - [Manuals](research/manuals)
+  - [Manuals](pages/manuals)
 
 - **Data & References**
   - [External Links](research/resources)
