@@ -4,4 +4,4 @@ Below is a consolidated list of the PDF manuals currently available. Click a tit
 
 | Title                                        | Link                                                                                                         |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| 1988 Factory Service Manual                  | [View Manual Page]()                                             |
+| 1988 Factory Service Manual                  | [View Manual Page](pages/manuals/1988_factory_service_manual)                                             |
